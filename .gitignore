@@ -1,2 +1,3 @@
 /random.pdf
-# could do *.pdf to ignore all file types
+# could do *.pdf to ignore all file types, t
+# the above method stops tracking on specified file
